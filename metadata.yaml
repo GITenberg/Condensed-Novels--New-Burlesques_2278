@@ -1,0 +1,33 @@
+_repo: Condensed-Novels--New-Burlesques_2278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Burlesques'
+- !lcsh 'Parodies'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: Rupert the Resembler. By A-th--y H-pe -- The stolen cigar case. By
+  A. Co--n D--le -- Golly and the Christian, or The minx and the Manxman. By H-ll
+  C--ne -- The adventures of John Longbowe, yeoman -- Can'l Borem. By E. N---s W--t---t
+  -- Stories three. By R-dy--d K-pl--ng. For Simla reasons, A private's honor, Jungle
+  folk -- "Zut-Ski." by M-r-e C-r-lli
+title: 'Condensed Novels: New Burlesques'
+url: http://www.gutenberg.org/ebooks/2278
